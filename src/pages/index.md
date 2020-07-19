@@ -12,7 +12,7 @@ mainpitch:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities. 
 
-    <a href ="https://www.google.com">google.com</a>
+    [I'm an inline-style link](https://www.google.com)
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
